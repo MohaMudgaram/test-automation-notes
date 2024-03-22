@@ -469,8 +469,6 @@ The following factors are considered for automation feasibility or suitability a
 - Detailed manual test steps – Detailed manual test steps reduce the effort for test automation preparation.
 - Business as usual (BAU) team availability for handover – A dedicated post-live support team is a major factor for test automation. Lack of a support team will make the automated suite obsolete.
 
-
-
 1.8 OVERSELLING AUTOMATION
 
 One of the key problems in test automation is overselling to senior leadership. Over-projected stories from automation tool vendors and inflated success stories from other organisations presented to senior leadership can be detrimental later in the cycle.
