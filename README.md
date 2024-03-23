@@ -5,3 +5,4 @@
 3. [Test Automation Tool Selection](../main/03_Test_Automation_Tool_Selection.md)
 4. [People and Team](../main/04_People_and_Team.md)
 5. [Automation Frameworks](../main/05_Automation_Frameworks.md)
+6. [Environments](../main/06_Environments.md)
