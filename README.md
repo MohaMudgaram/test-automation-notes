@@ -9,3 +9,4 @@
 7. [Candidates for Automation](../main/07_Candidates_for_Automation.md)
 8. [Test Automation and Test Coverage](../main/08_Test_Automation_Test_Coverage.md)
 9. [Test Automation Subject Matter Expert](../main/09_Test_Automation_Subject_Matter_Expert.md)
+10. [Test Automation Tools](../main/10_Test_Automation_Tools.md)
