@@ -7,3 +7,4 @@
 5. [Automation Frameworks](../main/05_Automation_Frameworks.md)
 6. [Environments](../main/06_Environments.md)
 7. [Candidates for Automation](../main/07_Candidates_for_Automation.md)
+8. [Test Automation and Test Coverage](../main/08_Test_Automation_Test_Coverage.md)
