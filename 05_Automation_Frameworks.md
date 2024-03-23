@@ -1,5 +1,13 @@
 ## AUTOMATION FRAMEWORKS
 
+> Reference Book:
+> 
+> Test Automation
+> 
+> By Boby Jose
+
+---
+
 This chapter is essential for all senior test automation professionals – such as managers, leaders, project managers and other decision makers of the automation framework. It details the test automation framework, widely used frameworks, and the advantages and disadvantages of each. This chapter also addresses how the frameworks manage data and the philosophy of using function libraries of automated test frameworks.
 
 A test automation framework is a set of rules followed in a systematic way to deliver targeted results. It is a platform developed by integrating various hardware and software components, along with using various tools for test automation. It is an integrated solution of function libraries, test data, object details and various reusable modules.

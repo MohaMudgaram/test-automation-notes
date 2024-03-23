@@ -1,5 +1,13 @@
 ## TEST AUTOMATION TOOL SELECTION
 
+> Reference Book:
+> 
+> Test Automation
+> 
+> By Boby Jose
+
+---
+
 Introducing test automation to the IT landscape is a management decision, and previous chapters described various factors supporting this decision making. Once the organisation decides to go for automation, the next important activity is automation tool selection. Most widely and commercially used functional testing automation tools are based on object-oriented programming (OOP) or scripting languages. There are many custom-developed tools based on scripting languages such as JavaScript and Shell script. It is important that the tool selection should be in line with the skills available in the team. There are plenty of tools available for test automation, and it is important to select the right tool to automate the solution. The IT market is filled with automation tools, but not every tool suits the requirements and tool vendors tend to offer their tools as the best solution for automation.
 
 This chapter will help you to understand the process of choosing the right automation tool. The first part of the chapter addresses the factors to be considered for tool selection and additional factors to be considered for tool assessment. The second part of this chapter addresses tool selection criteria. 

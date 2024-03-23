@@ -1,5 +1,13 @@
 ## PEOPLE AND TEAM
 
+> Reference Book:
+> 
+> Test Automation
+> 
+> By Boby Jose
+
+---
+
 Test automation requires a highly skilled team, and understanding how to build a successful automation team is crucial. This chapter is about building and leading a highly successful test automation team.
 
 Building and leading a successful test automation team requires a careful definition of team structure, role descriptions, thorough selection of team members, extensive training, a well-defined career path and development plans.
@@ -215,8 +223,6 @@ Table 4.2 Skill assessment matrix
 | - Functional<br>- Non-functional and operational<br>- Interfaces and integration<br>- APIs and messaging<br>- Failure and recovery<br>- Regression<br>- Business processes | - Exit and entry criteria<br>- Reporting<br>- Defect management<br>- Environments<br>- Release<br>- Testing life cycle |
 | Test objectives                                                                                                                                                            | Test automation                                                                                                        |
 | - Testing timescales<br>- Test coverage and traceabiity<br>- Test responsibilities<br>- Deliverables<br>- Assumptions and constraints<br>- Risk and issues                 | - Tool selection<br>- Automation framework<br>- Automation test strategy<br>- Scripting language<br>- ROI              |
-
-
 
 4.4 SUMMARY
 

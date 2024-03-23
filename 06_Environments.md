@@ -1,5 +1,13 @@
 ## ENVIRONMENTS
 
+> Reference Book:
+> 
+> Test Automation
+> 
+> By Boby Jose
+
+---
+
 Environments play an essential role in the success of test automation. This chapter covers various IT infrastructure and environments and their role in automated testing.
 
 The test automation framework and automated test suites are designed to work independently of environments. An environment-specific automated test suite will limit the opportunity to reuse the automation suite.
