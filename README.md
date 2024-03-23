@@ -10,3 +10,4 @@
 8. [Test Automation and Test Coverage](../main/08_Test_Automation_Test_Coverage.md)
 9. [Test Automation Subject Matter Expert](../main/09_Test_Automation_Subject_Matter_Expert.md)
 10. [Test Automation Tools](../main/10_Test_Automation_Tools.md)
+11. [Test Automation and Programming Languages](../main/11_Test_Automation_And_Programming_Languages.md)
