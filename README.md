@@ -12,3 +12,4 @@
 10. [Test Automation Tools](../main/10_Test_Automation_Tools.md)
 11. [Test Automation and Programming Languages](../main/11_Test_Automation_And_Programming_Languages.md)
 12. [Automation Framework Design and Development](../main/12_Automation_Framework_Design_And_Development.md)
+13. [Measuring Test Automation](../main/13_Measuring_Test_Automation.md)
